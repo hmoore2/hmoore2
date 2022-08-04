@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @hezzajm
-- 👀 I’m interested in Machine learning for finance
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on crypto.com api trading strategies
-- 📫 How to reach me: hezzajm@gmail.com
+- 👋 Hi, I’m @hezzajm.
+- 👀 I’m interested in financial markets.
+- 🌱 I’m currently learning Python and C++.
 
 <!---
 hezzajm/hezzajm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
