@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hezzajm.
-- 👀 I’m interested in financial markets.
-- 🌱 I’m currently using Python and C++.
+I'm currently studying Computational Finance at UCL.
+I'm mainly using Python, MATLAB and C++.
+
 
 <!---
 hezzajm/hezzajm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
