@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hezzajm.
+- 👋 Hi, I’m @hmoore2.
 I'm currently studying Computational Finance at UCL.
 I'm mainly using Python, MATLAB and C++.
 
